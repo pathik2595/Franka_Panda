@@ -1,0 +1,1 @@
+SAM 3 returned no masks for prompt 'red and yellow peach'.

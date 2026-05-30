@@ -1,0 +1,37 @@
+{
+  "prompt": "yellow mango",
+  "valid_pixels": 463,
+  "target_point_count": 463,
+  "obstacle_point_count": 28363,
+  "bbox_xyxy": [
+    241,
+    309,
+    269,
+    331
+  ],
+  "position": [
+    -0.1761067603783102,
+    -0.21763712918188516,
+    0.2710871695002042
+  ],
+  "yaw": 2.7233918960818753,
+  "closed_width": 0.0072623534175985,
+  "silhouette_closed_width": 0.01885593228470952,
+  "contact_closed_width": 0.0072623534175985,
+  "contact_extent": 0.017524706835197,
+  "close_percentiles": [
+    30.0,
+    70.0
+  ],
+  "squeeze_margin": 0.003,
+  "major_extent": 0.06507085985107895,
+  "minor_extent": 0.043711864569419036,
+  "top_z": 0.2921743390004083,
+  "estimated_height": 0.04217433900040829,
+  "z_percentiles": [
+    0.2697263893958061,
+    0.2838823889868305,
+    0.2921743390004083
+  ],
+  "camera_prim_path": "/World/RGBD_Camera"
+}

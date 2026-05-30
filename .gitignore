@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local Isaac/SAM dependency installs
+.isaac_python_packages/
+
+# Large model checkpoints and trained weights
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Generated media and recordings
+Recording/
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Generated perception/debug datasets
+isaac_bin_picking/
+assets/**/.thumbs/
+
+# Numeric dumps and caches
+*.npy
+*.npz
+*.cache
+
+# Commit curated perception trial evidence.
+!Trials/
+!Trials/**
+
+# Local logs/temp files
+*.log
+*.tmp
+*.bak
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Optional curated demo media can be committed here.
+!docs/
+!docs/media/
+!docs/media/.gitkeep

@@ -1,0 +1,37 @@
+{
+  "prompt": "rubiks cube",
+  "valid_pixels": 601,
+  "target_point_count": 601,
+  "obstacle_point_count": 28178,
+  "bbox_xyxy": [
+    299,
+    319,
+    329,
+    351
+  ],
+  "position": [
+    -0.016250455688792267,
+    -0.2600080303846885,
+    0.28237031392572676
+  ],
+  "yaw": 2.0841978446821416,
+  "closed_width": 0.00764151572282161,
+  "silhouette_closed_width": 0.00764151572282161,
+  "contact_closed_width": 0.011087562424978025,
+  "contact_extent": 0.02517512484995605,
+  "close_percentiles": [
+    30.0,
+    70.0
+  ],
+  "squeeze_margin": 0.022,
+  "major_extent": 0.060316261220569795,
+  "minor_extent": 0.05928303144564322,
+  "top_z": 0.3147406278514535,
+  "estimated_height": 0.06474062785145351,
+  "z_percentiles": [
+    0.3073126052703006,
+    0.3146882084545819,
+    0.3147406278514535
+  ],
+  "camera_prim_path": "/World/RGBD_Camera"
+}

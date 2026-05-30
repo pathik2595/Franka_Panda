@@ -1,0 +1,37 @@
+{
+  "prompt": "small peach",
+  "valid_pixels": 377,
+  "target_point_count": 377,
+  "obstacle_point_count": 28452,
+  "bbox_xyxy": [
+    205,
+    345,
+    225,
+    367
+  ],
+  "position": [
+    -0.2856324363854802,
+    -0.31604870303070665,
+    0.27900212384502504
+  ],
+  "yaw": 0.0,
+  "closed_width": 0.007920885376877644,
+  "silhouette_closed_width": 0.01968092520362173,
+  "contact_closed_width": 0.007920885376877644,
+  "contact_extent": 0.018841770753755288,
+  "close_percentiles": [
+    30.0,
+    70.0
+  ],
+  "squeeze_margin": 0.003,
+  "major_extent": 0.04674853726696482,
+  "minor_extent": 0.045361850407243456,
+  "top_z": 0.3080042476900501,
+  "estimated_height": 0.05800424769005008,
+  "z_percentiles": [
+    0.28674659517058415,
+    0.30295366045897465,
+    0.3080042476900501
+  ],
+  "camera_prim_path": "/World/RGBD_Camera"
+}

@@ -1,0 +1,3816 @@
+{
+  "source": "perception-place",
+  "selected": {
+    "x": -0.2749999999999999,
+    "y": 0.3750000000000001,
+    "clearance": 0.05316480179476901,
+    "perception_clearance": 0.05316480179476901,
+    "memory_clearance": 0.0949845383899785,
+    "edge_clearance": 0.1050000000000001,
+    "accepted": true,
+    "score": 0.07941480179476904
+  },
+  "selected_with_jitter": [
+    -0.2793047521645984,
+    0.3791216182947791,
+    0.33
+  ],
+  "place_floor_z": 0.25555529418349326,
+  "place_point_count": 10208,
+  "occupied_point_count": 1119,
+  "candidate_count": 378,
+  "accepted_candidate_count": 250,
+  "place_clearance_radius": 0.035,
+  "place_bounds": {
+    "x_range": [
+      -0.38,
+      -0.08
+    ],
+    "y_range": [
+      0.27,
+      0.53
+    ]
+  },
+  "candidates": [
+    {
+      "x": -0.38,
+      "y": 0.27,
+      "clearance": 0.1161630206603362,
+      "perception_clearance": 0.1161630206603362,
+      "memory_clearance": 0.17079219080929384,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.1161630206603362
+    },
+    {
+      "x": -0.38,
+      "y": 0.28500000000000003,
+      "clearance": 0.10176183642005071,
+      "perception_clearance": 0.10176183642005071,
+      "memory_clearance": 0.1561105231695383,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.10176183642005071
+    },
+    {
+      "x": -0.38,
+      "y": 0.30000000000000004,
+      "clearance": 0.087561951407153,
+      "perception_clearance": 0.087561951407153,
+      "memory_clearance": 0.14149564815603227,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.087561951407153
+    },
+    {
+      "x": -0.38,
+      "y": 0.31500000000000006,
+      "clearance": 0.0736798433553987,
+      "perception_clearance": 0.0736798433553987,
+      "memory_clearance": 0.1269706322340895,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.0736798433553987
+    },
+    {
+      "x": -0.38,
+      "y": 0.33000000000000007,
+      "clearance": 0.060335257516012625,
+      "perception_clearance": 0.060335257516012625,
+      "memory_clearance": 0.11257026451400537,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.060335257516012625
+    },
+    {
+      "x": -0.38,
+      "y": 0.3450000000000001,
+      "clearance": 0.047978821183632954,
+      "perception_clearance": 0.047978821183632954,
+      "memory_clearance": 0.09834931344743524,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.047978821183632954
+    },
+    {
+      "x": -0.38,
+      "y": 0.3600000000000001,
+      "clearance": 0.03703868164769658,
+      "perception_clearance": 0.03703868164769658,
+      "memory_clearance": 0.08439852166010134,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.03703868164769658
+    },
+    {
+      "x": -0.38,
+      "y": 0.3750000000000001,
+      "clearance": 0.02645409756332948,
+      "perception_clearance": 0.02645409756332948,
+      "memory_clearance": 0.070877594917148,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.02645409756332948
+    },
+    {
+      "x": -0.38,
+      "y": 0.3900000000000001,
+      "clearance": 0.017746091890049213,
+      "perception_clearance": 0.017746091890049213,
+      "memory_clearance": 0.05808748973804991,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.017746091890049213
+    },
+    {
+      "x": -0.38,
+      "y": 0.40500000000000014,
+      "clearance": 0.007146881606963803,
+      "perception_clearance": 0.007146881606963803,
+      "memory_clearance": 0.0466334586632472,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.007146881606963803
+    },
+    {
+      "x": -0.38,
+      "y": 0.42000000000000015,
+      "clearance": 0.0024579221848802612,
+      "perception_clearance": 0.0024579221848802612,
+      "memory_clearance": 0.03775185385812884,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.0024579221848802612
+    },
+    {
+      "x": -0.38,
+      "y": 0.43500000000000016,
+      "clearance": 0.0023909053228401245,
+      "perception_clearance": 0.0023909053228401245,
+      "memory_clearance": 0.033551832625867854,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.0023909053228401245
+    },
+    {
+      "x": -0.38,
+      "y": 0.4500000000000002,
+      "clearance": 0.007774001823237145,
+      "perception_clearance": 0.007774001823237145,
+      "memory_clearance": 0.03572462001733516,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.007774001823237145
+    },
+    {
+      "x": -0.38,
+      "y": 0.4650000000000002,
+      "clearance": 0.019496444645440585,
+      "perception_clearance": 0.019496444645440585,
+      "memory_clearance": 0.04332172062847595,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.019496444645440585
+    },
+    {
+      "x": -0.38,
+      "y": 0.4800000000000002,
+      "clearance": 0.03023284344511103,
+      "perception_clearance": 0.03023284344511103,
+      "memory_clearance": 0.05410447745834399,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.03023284344511103
+    },
+    {
+      "x": -0.38,
+      "y": 0.4950000000000002,
+      "clearance": 0.04261719048708246,
+      "perception_clearance": 0.04261719048708246,
+      "memory_clearance": 0.06654184761388272,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.04261719048708246
+    },
+    {
+      "x": -0.38,
+      "y": 0.5100000000000002,
+      "clearance": 0.053281815867844085,
+      "perception_clearance": 0.053281815867844085,
+      "memory_clearance": 0.07986451331284707,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.053281815867844085
+    },
+    {
+      "x": -0.38,
+      "y": 0.5250000000000002,
+      "clearance": 0.06541388887058056,
+      "perception_clearance": 0.06541388887058056,
+      "memory_clearance": 0.09369558948812193,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.06541388887058056
+    },
+    {
+      "x": -0.365,
+      "y": 0.27,
+      "clearance": 0.11316632412835678,
+      "perception_clearance": 0.11316632412835678,
+      "memory_clearance": 0.1684968147905751,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.11316632412835678
+    },
+    {
+      "x": -0.365,
+      "y": 0.28500000000000003,
+      "clearance": 0.09832721342218426,
+      "perception_clearance": 0.09832721342218426,
+      "memory_clearance": 0.15359589707214868,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.10207721342218426
+    },
+    {
+      "x": -0.365,
+      "y": 0.30000000000000004,
+      "clearance": 0.08354558565250014,
+      "perception_clearance": 0.08354558565250014,
+      "memory_clearance": 0.13871633862031832,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.08729558565250015
+    },
+    {
+      "x": -0.365,
+      "y": 0.31500000000000006,
+      "clearance": 0.0688584698106682,
+      "perception_clearance": 0.0688584698106682,
+      "memory_clearance": 0.12386583711038145,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.07260846981066821
+    },
+    {
+      "x": -0.365,
+      "y": 0.33000000000000007,
+      "clearance": 0.05434255098276278,
+      "perception_clearance": 0.05434255098276278,
+      "memory_clearance": 0.1090562634876341,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.05809255098276278
+    },
+    {
+      "x": -0.365,
+      "y": 0.3450000000000001,
+      "clearance": 0.040183788148476486,
+      "perception_clearance": 0.040183788148476486,
+      "memory_clearance": 0.09430690117225252,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.04393378814847649
+    },
+    {
+      "x": -0.365,
+      "y": 0.3600000000000001,
+      "clearance": 0.026951081844874217,
+      "perception_clearance": 0.026951081844874217,
+      "memory_clearance": 0.07965120596413924,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.03070108184487422
+    },
+    {
+      "x": -0.365,
+      "y": 0.3750000000000001,
+      "clearance": 0.015830885346426425,
+      "perception_clearance": 0.015830885346426425,
+      "memory_clearance": 0.06515241833094502,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.01958088534642643
+    },
+    {
+      "x": -0.365,
+      "y": 0.3900000000000001,
+      "clearance": 0.005277253853466599,
+      "perception_clearance": 0.005277253853466599,
+      "memory_clearance": 0.05094468193245681,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.009027253853466602
+    },
+    {
+      "x": -0.365,
+      "y": 0.40500000000000014,
+      "clearance": 0.0008561442440342614,
+      "perception_clearance": 0.0008561442440342614,
+      "memory_clearance": 0.03736152593280851,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.0046061442440342645
+    },
+    {
+      "x": -0.365,
+      "y": 0.42000000000000015,
+      "clearance": 0.001170792849863984,
+      "perception_clearance": 0.001170792849863984,
+      "memory_clearance": 0.025424527977066846,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.0049207928498639876
+    },
+    {
+      "x": -0.365,
+      "y": 0.43500000000000016,
+      "clearance": 0.0010268469691147876,
+      "perception_clearance": 0.0010268469691147876,
+      "memory_clearance": 0.018626046968838763,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.004776846969114791
+    },
+    {
+      "x": -0.365,
+      "y": 0.4500000000000002,
+      "clearance": 0.0009583371125177933,
+      "perception_clearance": 0.0009583371125177933,
+      "memory_clearance": 0.022303646081170702,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.004708337112517797
+    },
+    {
+      "x": -0.365,
+      "y": 0.4650000000000002,
+      "clearance": 0.009603832091239698,
+      "perception_clearance": 0.009603832091239698,
+      "memory_clearance": 0.03313571534376247,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.013353832091239701
+    },
+    {
+      "x": -0.365,
+      "y": 0.4800000000000002,
+      "clearance": 0.021420586116911694,
+      "perception_clearance": 0.021420586116911694,
+      "memory_clearance": 0.046351900006057906,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.025170586116911697
+    },
+    {
+      "x": -0.365,
+      "y": 0.4950000000000002,
+      "clearance": 0.03217589003931839,
+      "perception_clearance": 0.03217589003931839,
+      "memory_clearance": 0.060407132335514216,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.03592589003931839
+    },
+    {
+      "x": -0.365,
+      "y": 0.5100000000000002,
+      "clearance": 0.0450034760304149,
+      "perception_clearance": 0.0450034760304149,
+      "memory_clearance": 0.0748301051705065,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.048753476030414904
+    },
+    {
+      "x": -0.365,
+      "y": 0.5250000000000002,
+      "clearance": 0.05886711993819597,
+      "perception_clearance": 0.05886711993819597,
+      "memory_clearance": 0.08944309723314484,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.06011711993819591
+    },
+    {
+      "x": -0.35,
+      "y": 0.27,
+      "clearance": 0.11211327514846277,
+      "perception_clearance": 0.11211327514846277,
+      "memory_clearance": 0.1675182997397613,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.11211327514846277
+    },
+    {
+      "x": -0.35,
+      "y": 0.28500000000000003,
+      "clearance": 0.09711338963892871,
+      "perception_clearance": 0.09711338963892871,
+      "memory_clearance": 0.1525218140153376,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.10086338963892871
+    },
+    {
+      "x": -0.35,
+      "y": 0.30000000000000004,
+      "clearance": 0.08211354595808082,
+      "perception_clearance": 0.08211354595808082,
+      "memory_clearance": 0.13752609480879605,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": true,
+      "score": 0.08961354595808083
+    },
+    {
+      "x": -0.35,
+      "y": 0.31500000000000006,
+      "clearance": 0.06711377215190127,
+      "perception_clearance": 0.06711377215190127,
+      "memory_clearance": 0.12253142354590794,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": true,
+      "score": 0.07461377215190128
+    },
+    {
+      "x": -0.35,
+      "y": 0.33000000000000007,
+      "clearance": 0.05211412855555377,
+      "perception_clearance": 0.05211412855555377,
+      "memory_clearance": 0.10753823858988677,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": true,
+      "score": 0.05961412855555378
+    },
+    {
+      "x": -0.35,
+      "y": 0.3450000000000001,
+      "clearance": 0.03711477303921248,
+      "perception_clearance": 0.03711477303921248,
+      "memory_clearance": 0.09254726231415028,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": true,
+      "score": 0.044614773039212484
+    },
+    {
+      "x": -0.35,
+      "y": 0.3600000000000001,
+      "clearance": 0.022116291741603573,
+      "perception_clearance": 0.022116291741603573,
+      "memory_clearance": 0.07755977542948966,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.02961629174160358
+    },
+    {
+      "x": -0.35,
+      "y": 0.3750000000000001,
+      "clearance": 0.007124208240021644,
+      "perception_clearance": 0.007124208240021644,
+      "memory_clearance": 0.06257828511154327,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.014624208240021652
+    },
+    {
+      "x": -0.35,
+      "y": 0.3900000000000001,
+      "clearance": 0.001383572150462682,
+      "perception_clearance": 0.001383572150462682,
+      "memory_clearance": 0.04760845271934732,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.008883572150462688
+    },
+    {
+      "x": -0.35,
+      "y": 0.40500000000000014,
+      "clearance": 0.0007872034129762459,
+      "perception_clearance": 0.0007872034129762459,
+      "memory_clearance": 0.032666309451161765,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.008287203412976252
+    },
+    {
+      "x": -0.35,
+      "y": 0.42000000000000015,
+      "clearance": 0.0011159775638481847,
+      "perception_clearance": 0.0011159775638481847,
+      "memory_clearance": 0.0178216378592932,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.00861597756384819
+    },
+    {
+      "x": -0.35,
+      "y": 0.43500000000000016,
+      "clearance": 0.0009684326721521504,
+      "perception_clearance": 0.0009684326721521504,
+      "memory_clearance": 0.004258377486382059,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.008468432672152157
+    },
+    {
+      "x": -0.35,
+      "y": 0.4500000000000002,
+      "clearance": 0.000898445523060309,
+      "perception_clearance": 0.000898445523060309,
+      "memory_clearance": 0.012986792584978759,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.008398445523060316
+    },
+    {
+      "x": -0.35,
+      "y": 0.4650000000000002,
+      "clearance": 0.0012075157025025133,
+      "perception_clearance": 0.0012075157025025133,
+      "memory_clearance": 0.02773409065525664,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.00870751570250252
+    },
+    {
+      "x": -0.35,
+      "y": 0.4800000000000002,
+      "clearance": 0.011472745855712889,
+      "perception_clearance": 0.011472745855712889,
+      "memory_clearance": 0.04265797448663883,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.018972745855712896
+    },
+    {
+      "x": -0.35,
+      "y": 0.4950000000000002,
+      "clearance": 0.0259161890035475,
+      "perception_clearance": 0.0259161890035475,
+      "memory_clearance": 0.0576214004527091,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.03341618900354751
+    },
+    {
+      "x": -0.35,
+      "y": 0.5100000000000002,
+      "clearance": 0.04076363339381582,
+      "perception_clearance": 0.04076363339381582,
+      "memory_clearance": 0.07259992281648929,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.04576363339381577
+    },
+    {
+      "x": -0.35,
+      "y": 0.5250000000000002,
+      "clearance": 0.0556928968762017,
+      "perception_clearance": 0.0556928968762017,
+      "memory_clearance": 0.08758579676973283,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.056942896876201646
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.27,
+      "clearance": 0.11305819745735174,
+      "perception_clearance": 0.11305819745735174,
+      "memory_clearance": 0.167879673876356,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.11305819745735174
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.28500000000000003,
+      "clearance": 0.09820274942664793,
+      "perception_clearance": 0.09820274942664793,
+      "memory_clearance": 0.15291863164330358,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.10195274942664793
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.30000000000000004,
+      "clearance": 0.08339906460866611,
+      "perception_clearance": 0.08339906460866611,
+      "memory_clearance": 0.13796604983288133,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": true,
+      "score": 0.09089906460866612
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.31500000000000006,
+      "clearance": 0.06868062288773982,
+      "perception_clearance": 0.06868062288773982,
+      "memory_clearance": 0.1230250133481717,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": true,
+      "score": 0.07993062288773983
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.33000000000000007,
+      "clearance": 0.054117020824278564,
+      "perception_clearance": 0.054117020824278564,
+      "memory_clearance": 0.10810030949144665,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": true,
+      "score": 0.06536702082427857
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.3450000000000001,
+      "clearance": 0.039878263823076195,
+      "perception_clearance": 0.039878263823076195,
+      "memory_clearance": 0.09319978495133602,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": true,
+      "score": 0.051128263823076205
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.3600000000000001,
+      "clearance": 0.026493393670693397,
+      "perception_clearance": 0.026493393670693397,
+      "memory_clearance": 0.07833723838510015,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.037743393670693404
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.3750000000000001,
+      "clearance": 0.014776757464977055,
+      "perception_clearance": 0.014776757464977055,
+      "memory_clearance": 0.06353932578043882,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.026026757464977065
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.3900000000000001,
+      "clearance": 0.003182359385125644,
+      "perception_clearance": 0.003182359385125644,
+      "memory_clearance": 0.04886480250099726,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.014432359385125654
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.40500000000000014,
+      "clearance": 0.0005799386419039002,
+      "perception_clearance": 0.0005799386419039002,
+      "memory_clearance": 0.03447161043946452,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.01182993864190391
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.42000000000000015,
+      "clearance": 0.0009798298503028591,
+      "perception_clearance": 0.0009798298503028591,
+      "memory_clearance": 0.020947909898577744,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.01222982985030287
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.43500000000000016,
+      "clearance": 0.0007885848655895247,
+      "perception_clearance": 0.0007885848655895247,
+      "memory_clearance": 0.01180414892940886,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.012038584865589536
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.4500000000000002,
+      "clearance": 0.0008377221123826857,
+      "perception_clearance": 0.0008377221123826857,
+      "memory_clearance": 0.01702530278075541,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.012087722112382696
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.4650000000000002,
+      "clearance": 0.002431927629084789,
+      "perception_clearance": 0.002431927629084789,
+      "memory_clearance": 0.0298393018954052,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.013681927629084798
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.4800000000000002,
+      "clearance": 0.013043463350442593,
+      "perception_clearance": 0.013043463350442593,
+      "memory_clearance": 0.04405572539902013,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.024293463350442603
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.4950000000000002,
+      "clearance": 0.02669837433315074,
+      "perception_clearance": 0.02669837433315074,
+      "memory_clearance": 0.05866370209305413,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": false,
+      "score": 0.03544837433315069
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.5100000000000002,
+      "clearance": 0.04129739032786147,
+      "perception_clearance": 0.04129739032786147,
+      "memory_clearance": 0.07342991860332776,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.04629739032786142
+    },
+    {
+      "x": -0.33499999999999996,
+      "y": 0.5250000000000002,
+      "clearance": 0.05610833898584462,
+      "perception_clearance": 0.05610833898584462,
+      "memory_clearance": 0.08827500183472146,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.05735833898584457
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.27,
+      "clearance": 0.11595225551965839,
+      "perception_clearance": 0.11595225551965839,
+      "memory_clearance": 0.1695723711397667,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.11595225551965839
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.28500000000000003,
+      "clearance": 0.10152117780415876,
+      "perception_clearance": 0.10152117780415876,
+      "memory_clearance": 0.15477503693035097,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.10527117780415876
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.30000000000000004,
+      "clearance": 0.08728214895034998,
+      "perception_clearance": 0.08728214895034998,
+      "memory_clearance": 0.14002083794785772,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": true,
+      "score": 0.09478214895034999
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.31500000000000006,
+      "clearance": 0.07334710292873568,
+      "perception_clearance": 0.07334710292873568,
+      "memory_clearance": 0.12532500972451174,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": true,
+      "score": 0.08459710292873569
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.33000000000000007,
+      "clearance": 0.05992846978428546,
+      "perception_clearance": 0.05992846978428546,
+      "memory_clearance": 0.11071079922608133,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": true,
+      "score": 0.07492846978428547
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.3450000000000001,
+      "clearance": 0.04744916352628501,
+      "perception_clearance": 0.04744916352628501,
+      "memory_clearance": 0.0962154045260239,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": true,
+      "score": 0.062449163526285024
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.3600000000000001,
+      "clearance": 0.035919108467841326,
+      "perception_clearance": 0.035919108467841326,
+      "memory_clearance": 0.0819019356971198,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": true,
+      "score": 0.05091910846784134
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.3750000000000001,
+      "clearance": 0.024390775506869387,
+      "perception_clearance": 0.024390775506869387,
+      "memory_clearance": 0.06788556601932311,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": false,
+      "score": 0.0393907755068694
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.3900000000000001,
+      "clearance": 0.01280745399426761,
+      "perception_clearance": 0.01280745399426761,
+      "memory_clearance": 0.054396443602432384,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": false,
+      "score": 0.027807453994267622
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.40500000000000014,
+      "clearance": 0.0012938360352929004,
+      "perception_clearance": 0.0012938360352929004,
+      "memory_clearance": 0.041946347629100426,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": false,
+      "score": 0.016293836035292913
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.42000000000000015,
+      "clearance": 0.001360356145969702,
+      "perception_clearance": 0.001360356145969702,
+      "memory_clearance": 0.031780797382225494,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": false,
+      "score": 0.016360356145969715
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.43500000000000016,
+      "clearance": 0.0012407162354056216,
+      "perception_clearance": 0.0012407162354056216,
+      "memory_clearance": 0.026655995293344496,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": false,
+      "score": 0.016240716235405635
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.4500000000000002,
+      "clearance": 0.00432082491836428,
+      "perception_clearance": 0.00432082491836428,
+      "memory_clearance": 0.029343910576259898,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": false,
+      "score": 0.019320824918364295
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.4650000000000002,
+      "clearance": 0.012831157369736794,
+      "perception_clearance": 0.012831157369736794,
+      "memory_clearance": 0.03823072181814348,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": false,
+      "score": 0.027831157369736806
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.4800000000000002,
+      "clearance": 0.023494160159890465,
+      "perception_clearance": 0.023494160159890465,
+      "memory_clearance": 0.050120964611278254,
+      "edge_clearance": 0.04999999999999982,
+      "accepted": false,
+      "score": 0.03599416015989042
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.4950000000000002,
+      "clearance": 0.03415090799349058,
+      "perception_clearance": 0.03415090799349058,
+      "memory_clearance": 0.06334535576025872,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": false,
+      "score": 0.042900907993490535
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.5100000000000002,
+      "clearance": 0.046464564698688,
+      "perception_clearance": 0.046464564698688,
+      "memory_clearance": 0.07722148081474792,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.05146456469868795
+    },
+    {
+      "x": -0.31999999999999995,
+      "y": 0.5250000000000002,
+      "clearance": 0.06001355703919963,
+      "perception_clearance": 0.06001355703919963,
+      "memory_clearance": 0.09145315796653071,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.06126355703919958
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.27,
+      "clearance": 0.12065527385028292,
+      "perception_clearance": 0.12065527385028292,
+      "memory_clearance": 0.172557217197931,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.12065527385028292
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.28500000000000003,
+      "clearance": 0.10686121415431434,
+      "perception_clearance": 0.10686121415431434,
+      "memory_clearance": 0.15803960329589115,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.11061121415431434
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.30000000000000004,
+      "clearance": 0.09343951558725944,
+      "perception_clearance": 0.09343951558725944,
+      "memory_clearance": 0.1436211656154878,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": true,
+      "score": 0.10093951558725944
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.31500000000000006,
+      "clearance": 0.08057646713420218,
+      "perception_clearance": 0.08057646713420218,
+      "memory_clearance": 0.12933507728215152,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": true,
+      "score": 0.09182646713420219
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.33000000000000007,
+      "clearance": 0.06848073182244589,
+      "perception_clearance": 0.06848073182244589,
+      "memory_clearance": 0.11523057414770106,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": true,
+      "score": 0.0834807318224459
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.3450000000000001,
+      "clearance": 0.05704971556231482,
+      "perception_clearance": 0.05704971556231482,
+      "memory_clearance": 0.10138347114415426,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": true,
+      "score": 0.07579971556231484
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.3600000000000001,
+      "clearance": 0.045475864656136684,
+      "perception_clearance": 0.045475864656136684,
+      "memory_clearance": 0.08791547772756676,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": true,
+      "score": 0.0642258646561367
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.3750000000000001,
+      "clearance": 0.03392950832708096,
+      "perception_clearance": 0.03392950832708096,
+      "memory_clearance": 0.07503102176363466,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": false,
+      "score": 0.05267950832708097
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.3900000000000001,
+      "clearance": 0.022417146885163334,
+      "perception_clearance": 0.022417146885163334,
+      "memory_clearance": 0.06308864580670398,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": false,
+      "score": 0.04116714688516335
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.40500000000000014,
+      "clearance": 0.010907963527391056,
+      "perception_clearance": 0.010907963527391056,
+      "memory_clearance": 0.05273234522143387,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": false,
+      "score": 0.02965796352739107
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.42000000000000015,
+      "clearance": 0.0006366063659961684,
+      "perception_clearance": 0.0006366063659961684,
+      "memory_clearance": 0.045069094015535875,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": false,
+      "score": 0.019386606365996185
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.43500000000000016,
+      "clearance": 0.006227542014934465,
+      "perception_clearance": 0.006227542014934465,
+      "memory_clearance": 0.04161425522834626,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": false,
+      "score": 0.024977542014934483
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.4500000000000002,
+      "clearance": 0.014757745252420924,
+      "perception_clearance": 0.014757745252420924,
+      "memory_clearance": 0.0433851269565813,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": false,
+      "score": 0.03350774525242094
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.4650000000000002,
+      "clearance": 0.02540721792147738,
+      "perception_clearance": 0.02540721792147738,
+      "memory_clearance": 0.04982762530833085,
+      "edge_clearance": 0.06499999999999984,
+      "accepted": false,
+      "score": 0.041657217921477335
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.4800000000000002,
+      "clearance": 0.03404190494513755,
+      "perception_clearance": 0.03404190494513755,
+      "memory_clearance": 0.05944169619632458,
+      "edge_clearance": 0.04999999999999982,
+      "accepted": false,
+      "score": 0.046541904945137505
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.4950000000000002,
+      "clearance": 0.04469940549094657,
+      "perception_clearance": 0.04469940549094657,
+      "memory_clearance": 0.0709495472115565,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": true,
+      "score": 0.053449405490946525
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.5100000000000002,
+      "clearance": 0.05533929071993406,
+      "perception_clearance": 0.05533929071993406,
+      "memory_clearance": 0.08357249100244422,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.06033929071993401
+    },
+    {
+      "x": -0.30499999999999994,
+      "y": 0.5250000000000002,
+      "clearance": 0.067120103942441,
+      "perception_clearance": 0.067120103942441,
+      "memory_clearance": 0.09687561228287726,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.06837010394244095
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.27,
+      "clearance": 0.11774915619472355,
+      "perception_clearance": 0.11774915619472355,
+      "memory_clearance": 0.15962368682608244,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.11774915619472355
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.28500000000000003,
+      "clearance": 0.1124983699659189,
+      "perception_clearance": 0.1124983699659189,
+      "memory_clearance": 0.15572792536817195,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.1162483699659189
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.30000000000000004,
+      "clearance": 0.10145361244132484,
+      "perception_clearance": 0.10145361244132484,
+      "memory_clearance": 0.14865477915587683,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": true,
+      "score": 0.10895361244132484
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.31500000000000006,
+      "clearance": 0.08959150084445708,
+      "perception_clearance": 0.08959150084445708,
+      "memory_clearance": 0.13490280341309163,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": true,
+      "score": 0.10084150084445709
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.33000000000000007,
+      "clearance": 0.07817183163420724,
+      "perception_clearance": 0.07817183163420724,
+      "memory_clearance": 0.12144665236860164,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": true,
+      "score": 0.09317183163420725
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.3450000000000001,
+      "clearance": 0.06656936933372948,
+      "perception_clearance": 0.06656936933372948,
+      "memory_clearance": 0.10839655148743756,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": true,
+      "score": 0.0853193693337295
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.3600000000000001,
+      "clearance": 0.055061091162425524,
+      "perception_clearance": 0.055061091162425524,
+      "memory_clearance": 0.09591837872481701,
+      "edge_clearance": 0.09000000000000008,
+      "accepted": true,
+      "score": 0.07756109116242554
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.3750000000000001,
+      "clearance": 0.04357919164185094,
+      "perception_clearance": 0.04357919164185094,
+      "memory_clearance": 0.0842665911261762,
+      "edge_clearance": 0.09000000000000008,
+      "accepted": true,
+      "score": 0.06607919164185096
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.3900000000000001,
+      "clearance": 0.03203483564617958,
+      "perception_clearance": 0.03203483564617958,
+      "memory_clearance": 0.07383347061363761,
+      "edge_clearance": 0.09000000000000008,
+      "accepted": false,
+      "score": 0.0545348356461796
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.40500000000000014,
+      "clearance": 0.020525657784898354,
+      "perception_clearance": 0.020525657784898354,
+      "memory_clearance": 0.06520662838763878,
+      "edge_clearance": 0.09000000000000008,
+      "accepted": false,
+      "score": 0.04302565778489838
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.42000000000000015,
+      "clearance": 0.011817633943515884,
+      "perception_clearance": 0.011817633943515884,
+      "memory_clearance": 0.05918130945249819,
+      "edge_clearance": 0.09000000000000008,
+      "accepted": false,
+      "score": 0.034317633943515904
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.43500000000000016,
+      "clearance": 0.016675578225502634,
+      "perception_clearance": 0.016675578225502634,
+      "memory_clearance": 0.05659461450828237,
+      "edge_clearance": 0.09000000000000008,
+      "accepted": false,
+      "score": 0.039175578225502654
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.4500000000000002,
+      "clearance": 0.02732402740891259,
+      "perception_clearance": 0.02732402740891259,
+      "memory_clearance": 0.05790918229581401,
+      "edge_clearance": 0.07999999999999985,
+      "accepted": false,
+      "score": 0.04732402740891255
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.4650000000000002,
+      "clearance": 0.03596701122758444,
+      "perception_clearance": 0.03596701122758444,
+      "memory_clearance": 0.06288081103960534,
+      "edge_clearance": 0.06499999999999984,
+      "accepted": true,
+      "score": 0.052217011227584396
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.4800000000000002,
+      "clearance": 0.04596415398206671,
+      "perception_clearance": 0.04596415398206671,
+      "memory_clearance": 0.0707426278832451,
+      "edge_clearance": 0.04999999999999982,
+      "accepted": true,
+      "score": 0.05846415398206667
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.4950000000000002,
+      "clearance": 0.055254538140686794,
+      "perception_clearance": 0.055254538140686794,
+      "memory_clearance": 0.08065384307431372,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": true,
+      "score": 0.06400453814068674
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.5100000000000002,
+      "clearance": 0.0659097727265809,
+      "perception_clearance": 0.0659097727265809,
+      "memory_clearance": 0.09195414838649077,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.07090977272658085
+    },
+    {
+      "x": -0.2899999999999999,
+      "y": 0.5250000000000002,
+      "clearance": 0.07654142458819867,
+      "perception_clearance": 0.07654142458819867,
+      "memory_clearance": 0.10419255447638041,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.07779142458819861
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.27,
+      "clearance": 0.10421871028036489,
+      "perception_clearance": 0.10421871028036489,
+      "memory_clearance": 0.14540267763704853,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.10421871028036489
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.28500000000000003,
+      "clearance": 0.09824743779316587,
+      "perception_clearance": 0.09824743779316587,
+      "memory_clearance": 0.14111486104428245,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.10199743779316588
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.30000000000000004,
+      "clearance": 0.09430577126210973,
+      "perception_clearance": 0.09430577126210973,
+      "memory_clearance": 0.13832884497121645,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": true,
+      "score": 0.10180577126210974
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.31500000000000006,
+      "clearance": 0.09265310547283737,
+      "perception_clearance": 0.09265310547283737,
+      "memory_clearance": 0.13713619031675967,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": true,
+      "score": 0.10390310547283738
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.33000000000000007,
+      "clearance": 0.08770047111211612,
+      "perception_clearance": 0.08770047111211612,
+      "memory_clearance": 0.1291142653802093,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": true,
+      "score": 0.10270047111211614
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.3450000000000001,
+      "clearance": 0.07618664035024654,
+      "perception_clearance": 0.07618664035024654,
+      "memory_clearance": 0.11692312229623293,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": true,
+      "score": 0.09493664035024656
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.3600000000000001,
+      "clearance": 0.06468148428165697,
+      "perception_clearance": 0.06468148428165697,
+      "memory_clearance": 0.10545871007332003,
+      "edge_clearance": 0.09000000000000008,
+      "accepted": true,
+      "score": 0.08718148428165699
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.3750000000000001,
+      "clearance": 0.05316480179476901,
+      "perception_clearance": 0.05316480179476901,
+      "memory_clearance": 0.0949845383899785,
+      "edge_clearance": 0.1050000000000001,
+      "accepted": true,
+      "score": 0.07941480179476904
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.3900000000000001,
+      "clearance": 0.04167149848137056,
+      "perception_clearance": 0.04167149848137056,
+      "memory_clearance": 0.08586376148286325,
+      "edge_clearance": 0.1050000000000001,
+      "accepted": true,
+      "score": 0.06792149848137058
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.40500000000000014,
+      "clearance": 0.031702509433109996,
+      "perception_clearance": 0.031702509433109996,
+      "memory_clearance": 0.07856913222643332,
+      "edge_clearance": 0.1050000000000001,
+      "accepted": false,
+      "score": 0.05795250943311002
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.42000000000000015,
+      "clearance": 0.02669712972390908,
+      "perception_clearance": 0.02669712972390908,
+      "memory_clearance": 0.07364530902673634,
+      "edge_clearance": 0.1050000000000001,
+      "accepted": false,
+      "score": 0.0529471297239091
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.43500000000000016,
+      "clearance": 0.029499173850335833,
+      "perception_clearance": 0.029499173850335833,
+      "memory_clearance": 0.07158320015528942,
+      "edge_clearance": 0.09499999999999986,
+      "accepted": false,
+      "score": 0.0532491738503358
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.4500000000000002,
+      "clearance": 0.03788183037584944,
+      "perception_clearance": 0.03788183037584944,
+      "memory_clearance": 0.07262697534181746,
+      "edge_clearance": 0.07999999999999985,
+      "accepted": true,
+      "score": 0.0578818303758494
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.4650000000000002,
+      "clearance": 0.047863963388015955,
+      "perception_clearance": 0.047863963388015955,
+      "memory_clearance": 0.07664985681741157,
+      "edge_clearance": 0.06499999999999984,
+      "accepted": true,
+      "score": 0.06411396338801592
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.4800000000000002,
+      "clearance": 0.05717919856342006,
+      "perception_clearance": 0.05717919856342006,
+      "memory_clearance": 0.08322093218030203,
+      "edge_clearance": 0.04999999999999982,
+      "accepted": true,
+      "score": 0.06967919856342002
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.4950000000000002,
+      "clearance": 0.06676013888641913,
+      "perception_clearance": 0.06676013888641913,
+      "memory_clearance": 0.09179458892433238,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": true,
+      "score": 0.07551013888641908
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.5100000000000002,
+      "clearance": 0.07646748771855555,
+      "perception_clearance": 0.07646748771855555,
+      "memory_clearance": 0.10186642998856839,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.0814674877185555
+    },
+    {
+      "x": -0.2749999999999999,
+      "y": 0.5250000000000002,
+      "clearance": 0.08712152105246458,
+      "perception_clearance": 0.08712152105246458,
+      "memory_clearance": 0.11303668679435293,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.08837152105246453
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.27,
+      "clearance": 0.09081795047978555,
+      "perception_clearance": 0.09081795047978555,
+      "memory_clearance": 0.1313550757759123,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.09081795047978555
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.28500000000000003,
+      "clearance": 0.08425695710655134,
+      "perception_clearance": 0.08425695710655134,
+      "memory_clearance": 0.12659234287909893,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.08800695710655135
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.30000000000000004,
+      "clearance": 0.07962571369397324,
+      "perception_clearance": 0.07962571369397324,
+      "memory_clearance": 0.12347909385455921,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": true,
+      "score": 0.08712571369397325
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.31500000000000006,
+      "clearance": 0.077661275689329,
+      "perception_clearance": 0.077661275689329,
+      "memory_clearance": 0.12214152431776318,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": true,
+      "score": 0.08891127568932901
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.33000000000000007,
+      "clearance": 0.07798059569085096,
+      "perception_clearance": 0.07798059569085096,
+      "memory_clearance": 0.12263774829223842,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": true,
+      "score": 0.09298059569085097
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.3450000000000001,
+      "clearance": 0.08068483198217236,
+      "perception_clearance": 0.08068483198217236,
+      "memory_clearance": 0.1249459188997949,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": true,
+      "score": 0.09943483198217237
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.3600000000000001,
+      "clearance": 0.07429187529663958,
+      "perception_clearance": 0.07429187529663958,
+      "memory_clearance": 0.11615826997446077,
+      "edge_clearance": 0.09000000000000008,
+      "accepted": true,
+      "score": 0.0967918752966396
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.3750000000000001,
+      "clearance": 0.06285714315035207,
+      "perception_clearance": 0.06285714315035207,
+      "memory_clearance": 0.10673924623252894,
+      "edge_clearance": 0.1050000000000001,
+      "accepted": true,
+      "score": 0.08910714315035209
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.3900000000000001,
+      "clearance": 0.05263498586197131,
+      "perception_clearance": 0.05263498586197131,
+      "memory_clearance": 0.0987106361498961,
+      "edge_clearance": 0.1200000000000001,
+      "accepted": true,
+      "score": 0.08263498586197134
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.40500000000000014,
+      "clearance": 0.04503475733062986,
+      "perception_clearance": 0.04503475733062986,
+      "memory_clearance": 0.09243545148884115,
+      "edge_clearance": 0.1200000000000001,
+      "accepted": true,
+      "score": 0.07503475733062989
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.42000000000000015,
+      "clearance": 0.041663137171455554,
+      "perception_clearance": 0.041663137171455554,
+      "memory_clearance": 0.0882883667012514,
+      "edge_clearance": 0.10999999999999988,
+      "accepted": true,
+      "score": 0.06916313717145553
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.43500000000000016,
+      "clearance": 0.0435144186460801,
+      "perception_clearance": 0.0435144186460801,
+      "memory_clearance": 0.08657573965957999,
+      "edge_clearance": 0.09499999999999986,
+      "accepted": true,
+      "score": 0.06726441864608007
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.4500000000000002,
+      "clearance": 0.04977107012434141,
+      "perception_clearance": 0.04977107012434141,
+      "memory_clearance": 0.08744073250168999,
+      "edge_clearance": 0.07999999999999985,
+      "accepted": true,
+      "score": 0.06977107012434138
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.4650000000000002,
+      "clearance": 0.05909307265741394,
+      "perception_clearance": 0.05909307265741394,
+      "memory_clearance": 0.090809717009034,
+      "edge_clearance": 0.06499999999999984,
+      "accepted": true,
+      "score": 0.0753430726574139
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.4800000000000002,
+      "clearance": 0.06867891847517088,
+      "perception_clearance": 0.06867891847517088,
+      "memory_clearance": 0.09642057719226521,
+      "edge_clearance": 0.04999999999999982,
+      "accepted": true,
+      "score": 0.08117891847517084
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.4950000000000002,
+      "clearance": 0.07839193581016389,
+      "perception_clearance": 0.07839193581016389,
+      "memory_clearance": 0.10391078244782063,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": true,
+      "score": 0.08714193581016384
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.5100000000000002,
+      "clearance": 0.08775607578384989,
+      "perception_clearance": 0.08775607578384989,
+      "memory_clearance": 0.1129069249946479,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.09275607578384984
+    },
+    {
+      "x": -0.2599999999999999,
+      "y": 0.5250000000000002,
+      "clearance": 0.09768054755597083,
+      "perception_clearance": 0.09768054755597083,
+      "memory_clearance": 0.12307922941981635,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.09893054755597078
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.27,
+      "clearance": 0.07784412165591824,
+      "perception_clearance": 0.07784412165591824,
+      "memory_clearance": 0.11754306955396336,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.07784412165591824
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.28500000000000003,
+      "clearance": 0.07068175584115373,
+      "perception_clearance": 0.07068175584115373,
+      "memory_clearance": 0.11219553709346713,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.07443175584115373
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.30000000000000004,
+      "clearance": 0.06509170507221203,
+      "perception_clearance": 0.06509170507221203,
+      "memory_clearance": 0.10867062108599201,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": true,
+      "score": 0.07259170507221203
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.31500000000000006,
+      "clearance": 0.06267335581909747,
+      "perception_clearance": 0.06267335581909747,
+      "memory_clearance": 0.10714835150733279,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": true,
+      "score": 0.07392335581909748
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.33000000000000007,
+      "clearance": 0.06305135170036617,
+      "perception_clearance": 0.06305135170036617,
+      "memory_clearance": 0.10771366939373404,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": true,
+      "score": 0.07805135170036619
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.3450000000000001,
+      "clearance": 0.06636672177330057,
+      "perception_clearance": 0.06636672177330057,
+      "memory_clearance": 0.11033449106143704,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": true,
+      "score": 0.08511672177330058
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.3600000000000001,
+      "clearance": 0.07268844864643975,
+      "perception_clearance": 0.07268844864643975,
+      "memory_clearance": 0.11487021050433409,
+      "edge_clearance": 0.09000000000000008,
+      "accepted": true,
+      "score": 0.09518844864643977
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.3750000000000001,
+      "clearance": 0.07372811111796783,
+      "perception_clearance": 0.07372811111796783,
+      "memory_clearance": 0.11922445571030964,
+      "edge_clearance": 0.1050000000000001,
+      "accepted": true,
+      "score": 0.09997811111796785
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.3900000000000001,
+      "clearance": 0.06514232111432791,
+      "perception_clearance": 0.06514232111432791,
+      "memory_clearance": 0.11209368332893838,
+      "edge_clearance": 0.1200000000000001,
+      "accepted": true,
+      "score": 0.09514232111432794
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.40500000000000014,
+      "clearance": 0.05917102019824411,
+      "perception_clearance": 0.05917102019824411,
+      "memory_clearance": 0.10660917805272231,
+      "edge_clearance": 0.12499999999999989,
+      "accepted": true,
+      "score": 0.09042102019824408
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.42000000000000015,
+      "clearance": 0.05664712933979809,
+      "perception_clearance": 0.05664712933979809,
+      "memory_clearance": 0.10303416835159966,
+      "edge_clearance": 0.10999999999999988,
+      "accepted": true,
+      "score": 0.08414712933979807
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.43500000000000016,
+      "clearance": 0.0580222792863105,
+      "perception_clearance": 0.0580222792863105,
+      "memory_clearance": 0.10157048218224876,
+      "edge_clearance": 0.09499999999999986,
+      "accepted": true,
+      "score": 0.08177227928631046
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.4500000000000002,
+      "clearance": 0.06300226797520539,
+      "perception_clearance": 0.06300226797520539,
+      "memory_clearance": 0.10230877701137497,
+      "edge_clearance": 0.07999999999999985,
+      "accepted": true,
+      "score": 0.08300226797520535
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.4650000000000002,
+      "clearance": 0.07059828315753779,
+      "perception_clearance": 0.07059828315753779,
+      "memory_clearance": 0.10520270365533378,
+      "edge_clearance": 0.06499999999999984,
+      "accepted": true,
+      "score": 0.08684828315753775
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.4800000000000002,
+      "clearance": 0.08030535100206074,
+      "perception_clearance": 0.08030535100206074,
+      "memory_clearance": 0.11008238668933698,
+      "edge_clearance": 0.04999999999999982,
+      "accepted": true,
+      "score": 0.0928053510020607
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.4950000000000002,
+      "clearance": 0.08968070413767391,
+      "perception_clearance": 0.08968070413767391,
+      "memory_clearance": 0.11669899254941944,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": true,
+      "score": 0.09843070413767387
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.5100000000000002,
+      "clearance": 0.09960487162671659,
+      "perception_clearance": 0.09960487162671659,
+      "memory_clearance": 0.12477651167138064,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.10460487162671654
+    },
+    {
+      "x": -0.24499999999999988,
+      "y": 0.5250000000000002,
+      "clearance": 0.10883630611991404,
+      "perception_clearance": 0.10883630611991404,
+      "memory_clearance": 0.13405111289245952,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.11008630611991399
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.27,
+      "clearance": 0.06573822650037053,
+      "perception_clearance": 0.06573822650037053,
+      "memory_clearance": 0.10406051349210266,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.06573822650037053
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.28500000000000003,
+      "clearance": 0.057286624819307394,
+      "perception_clearance": 0.057286624819307394,
+      "memory_clearance": 0.09797987452412751,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.0610366248193074
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.30000000000000004,
+      "clearance": 0.050829183124865084,
+      "perception_clearance": 0.050829183124865084,
+      "memory_clearance": 0.09392295329304472,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": true,
+      "score": 0.05832918312486509
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.31500000000000006,
+      "clearance": 0.047693032169913815,
+      "perception_clearance": 0.047693032169913815,
+      "memory_clearance": 0.09215740067303957,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": true,
+      "score": 0.058943032169913825
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.33000000000000007,
+      "clearance": 0.04816609386473617,
+      "perception_clearance": 0.04816609386473617,
+      "memory_clearance": 0.09281407135954572,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": true,
+      "score": 0.06316609386473618
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.3450000000000001,
+      "clearance": 0.052431301775542394,
+      "perception_clearance": 0.052431301775542394,
+      "memory_clearance": 0.09584319060767196,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": true,
+      "score": 0.07118130177554241
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.3600000000000001,
+      "clearance": 0.05890696401383736,
+      "perception_clearance": 0.05890696401383736,
+      "memory_clearance": 0.10103159173932792,
+      "edge_clearance": 0.09000000000000008,
+      "accepted": true,
+      "score": 0.08140696401383737
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.3750000000000001,
+      "clearance": 0.06678951636491821,
+      "perception_clearance": 0.06678951636491821,
+      "memory_clearance": 0.1080687182902894,
+      "edge_clearance": 0.1050000000000001,
+      "accepted": true,
+      "score": 0.09303951636491824
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.3900000000000001,
+      "clearance": 0.07682218809166938,
+      "perception_clearance": 0.07682218809166938,
+      "memory_clearance": 0.11662038079353723,
+      "edge_clearance": 0.1200000000000001,
+      "accepted": true,
+      "score": 0.1068221880916694
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.40500000000000014,
+      "clearance": 0.07364977864714398,
+      "perception_clearance": 0.07364977864714398,
+      "memory_clearance": 0.12098231688229563,
+      "edge_clearance": 0.12499999999999989,
+      "accepted": true,
+      "score": 0.10489977864714395
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.42000000000000015,
+      "clearance": 0.0716378218953655,
+      "perception_clearance": 0.0716378218953655,
+      "memory_clearance": 0.11784415132299492,
+      "edge_clearance": 0.10999999999999988,
+      "accepted": true,
+      "score": 0.09913782189536546
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.43500000000000016,
+      "clearance": 0.07273008426401628,
+      "perception_clearance": 0.07273008426401628,
+      "memory_clearance": 0.11656657755920287,
+      "edge_clearance": 0.09499999999999986,
+      "accepted": true,
+      "score": 0.09648008426401625
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.4500000000000002,
+      "clearance": 0.07679422366421652,
+      "perception_clearance": 0.07679422366421652,
+      "memory_clearance": 0.11721045178094994,
+      "edge_clearance": 0.07999999999999985,
+      "accepted": true,
+      "score": 0.09679422366421649
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.4650000000000002,
+      "clearance": 0.08322405862182741,
+      "perception_clearance": 0.08322405862182741,
+      "memory_clearance": 0.11974478280711492,
+      "edge_clearance": 0.06499999999999984,
+      "accepted": true,
+      "score": 0.09947405862182737
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.4800000000000002,
+      "clearance": 0.09160281517650895,
+      "perception_clearance": 0.09160281517650895,
+      "memory_clearance": 0.12405376258845138,
+      "edge_clearance": 0.04999999999999982,
+      "accepted": true,
+      "score": 0.1041028151765089
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.4950000000000002,
+      "clearance": 0.10151801595300193,
+      "perception_clearance": 0.10151801595300193,
+      "memory_clearance": 0.1299609903593405,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": true,
+      "score": 0.11026801595300188
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.5100000000000002,
+      "clearance": 0.11076309650031839,
+      "perception_clearance": 0.11076309650031839,
+      "memory_clearance": 0.1372602710838403,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.11576309650031834
+    },
+    {
+      "x": -0.22999999999999987,
+      "y": 0.5250000000000002,
+      "clearance": 0.12081790141980009,
+      "perception_clearance": 0.12081790141980009,
+      "memory_clearance": 0.14574259851134147,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.12206790141980003
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.27,
+      "clearance": 0.05482460323428497,
+      "perception_clearance": 0.05482460323428497,
+      "memory_clearance": 0.09105387271452153,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.05482460323428497
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.28500000000000003,
+      "clearance": 0.04464935083761807,
+      "perception_clearance": 0.04464935083761807,
+      "memory_clearance": 0.0840373314654623,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": true,
+      "score": 0.04839935083761807
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.30000000000000004,
+      "clearance": 0.03715214186388594,
+      "perception_clearance": 0.03715214186388594,
+      "memory_clearance": 0.07927003483889528,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": true,
+      "score": 0.04465214186388595
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.31500000000000006,
+      "clearance": 0.03273073640316807,
+      "perception_clearance": 0.03273073640316807,
+      "memory_clearance": 0.07716996674149447,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.04398073640316808
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.33000000000000007,
+      "clearance": 0.0333837122730514,
+      "perception_clearance": 0.0333837122730514,
+      "memory_clearance": 0.07795299295349126,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": false,
+      "score": 0.04838371227305141
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.3450000000000001,
+      "clearance": 0.03924196198197784,
+      "perception_clearance": 0.03924196198197784,
+      "memory_clearance": 0.08153609295232848,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": true,
+      "score": 0.057991961981977855
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.3600000000000001,
+      "clearance": 0.04585162001022178,
+      "perception_clearance": 0.04585162001022178,
+      "memory_clearance": 0.08757625133250706,
+      "edge_clearance": 0.09000000000000008,
+      "accepted": true,
+      "score": 0.0683516200102218
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.3750000000000001,
+      "clearance": 0.05561636579725359,
+      "perception_clearance": 0.05561636579725359,
+      "memory_clearance": 0.09560891768542377,
+      "edge_clearance": 0.1050000000000001,
+      "accepted": true,
+      "score": 0.08186636579725362
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.3900000000000001,
+      "clearance": 0.06733490351538396,
+      "perception_clearance": 0.06733490351538396,
+      "memory_clearance": 0.10517856475775772,
+      "edge_clearance": 0.1200000000000001,
+      "accepted": true,
+      "score": 0.09733490351538399
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.40500000000000014,
+      "clearance": 0.08015483964401787,
+      "perception_clearance": 0.08015483964401787,
+      "memory_clearance": 0.11590511562491768,
+      "edge_clearance": 0.12499999999999989,
+      "accepted": true,
+      "score": 0.11140483964401784
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.42000000000000015,
+      "clearance": 0.08663173661761839,
+      "perception_clearance": 0.08663173661761839,
+      "memory_clearance": 0.12749690651756707,
+      "edge_clearance": 0.10999999999999988,
+      "accepted": true,
+      "score": 0.11413173661761836
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.43500000000000016,
+      "clearance": 0.087537108819764,
+      "perception_clearance": 0.087537108819764,
+      "memory_clearance": 0.1315635631814402,
+      "edge_clearance": 0.09499999999999986,
+      "accepted": true,
+      "score": 0.11128710881976396
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.4500000000000002,
+      "clearance": 0.09094192131059255,
+      "perception_clearance": 0.09094192131059255,
+      "memory_clearance": 0.13213437917448106,
+      "edge_clearance": 0.07999999999999985,
+      "accepted": true,
+      "score": 0.11094192131059251
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.4650000000000002,
+      "clearance": 0.09653170609798031,
+      "perception_clearance": 0.09653170609798031,
+      "memory_clearance": 0.134387563273743,
+      "edge_clearance": 0.06499999999999984,
+      "accepted": true,
+      "score": 0.11278170609798027
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.4800000000000002,
+      "clearance": 0.1038421980553144,
+      "perception_clearance": 0.1038421980553144,
+      "memory_clearance": 0.13824087733186233,
+      "edge_clearance": 0.04999999999999982,
+      "accepted": true,
+      "score": 0.11634219805531436
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.4950000000000002,
+      "clearance": 0.1126855532520981,
+      "perception_clearance": 0.1126855532520981,
+      "memory_clearance": 0.14356553614399153,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": true,
+      "score": 0.12143555325209805
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.5100000000000002,
+      "clearance": 0.12273086704861061,
+      "perception_clearance": 0.12273086704861061,
+      "memory_clearance": 0.150205146952894,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.12773086704861056
+    },
+    {
+      "x": -0.21499999999999986,
+      "y": 0.5250000000000002,
+      "clearance": 0.1318874459455815,
+      "perception_clearance": 0.1318874459455815,
+      "memory_clearance": 0.1579940162600129,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.13313744594558144
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.27,
+      "clearance": 0.04445144578054512,
+      "perception_clearance": 0.04445144578054512,
+      "memory_clearance": 0.078759285194728,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.04445144578054512
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.28500000000000003,
+      "clearance": 0.033613922059784127,
+      "perception_clearance": 0.033613922059784127,
+      "memory_clearance": 0.07053006697790801,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.03736392205978413
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.30000000000000004,
+      "clearance": 0.02378265412075351,
+      "perception_clearance": 0.02378265412075351,
+      "memory_clearance": 0.06477619695097793,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.03128265412075352
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.31500000000000006,
+      "clearance": 0.017831906612219273,
+      "perception_clearance": 0.017831906612219273,
+      "memory_clearance": 0.06218859248250899,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.029081906612219283
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.33000000000000007,
+      "clearance": 0.018946553567158072,
+      "perception_clearance": 0.018946553567158072,
+      "memory_clearance": 0.06315763119749875,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": false,
+      "score": 0.03394655356715809
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.3450000000000001,
+      "clearance": 0.025375236331192326,
+      "perception_clearance": 0.025375236331192326,
+      "memory_clearance": 0.0675303762909919,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": false,
+      "score": 0.04412523633119234
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.3600000000000001,
+      "clearance": 0.03441964127930463,
+      "perception_clearance": 0.03441964127930463,
+      "memory_clearance": 0.07471155911588685,
+      "edge_clearance": 0.09000000000000008,
+      "accepted": false,
+      "score": 0.05691964127930465
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.3750000000000001,
+      "clearance": 0.04664247841536896,
+      "perception_clearance": 0.04664247841536896,
+      "memory_clearance": 0.0839838223055509,
+      "edge_clearance": 0.1050000000000001,
+      "accepted": true,
+      "score": 0.07289247841536899
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.3900000000000001,
+      "clearance": 0.059829268167776506,
+      "perception_clearance": 0.059829268167776506,
+      "memory_clearance": 0.0947351452871322,
+      "edge_clearance": 0.11999999999999984,
+      "accepted": true,
+      "score": 0.08982926816777646
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.40500000000000014,
+      "clearance": 0.07297987148762228,
+      "perception_clearance": 0.07297987148762228,
+      "memory_clearance": 0.10651860445996156,
+      "edge_clearance": 0.11999999999999984,
+      "accepted": true,
+      "score": 0.10297987148762223
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.42000000000000015,
+      "clearance": 0.08653879312291375,
+      "perception_clearance": 0.08653879312291375,
+      "memory_clearance": 0.11902805736304967,
+      "edge_clearance": 0.10999999999999988,
+      "accepted": true,
+      "score": 0.11403879312291372
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.43500000000000016,
+      "clearance": 0.10028162964265766,
+      "perception_clearance": 0.10028162964265766,
+      "memory_clearance": 0.1320573503563703,
+      "edge_clearance": 0.09499999999999986,
+      "accepted": true,
+      "score": 0.12403162964265763
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.4500000000000002,
+      "clearance": 0.10532574858568204,
+      "perception_clearance": 0.10532574858568204,
+      "memory_clearance": 0.14546686607839202,
+      "edge_clearance": 0.07999999999999985,
+      "accepted": true,
+      "score": 0.12532574858568202
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.4650000000000002,
+      "clearance": 0.11023248589355637,
+      "perception_clearance": 0.11023248589355637,
+      "memory_clearance": 0.14910137932220954,
+      "edge_clearance": 0.06499999999999984,
+      "accepted": true,
+      "score": 0.12648248589355632
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.4800000000000002,
+      "clearance": 0.11672758219742507,
+      "perception_clearance": 0.11672758219742507,
+      "memory_clearance": 0.15258356503442352,
+      "edge_clearance": 0.04999999999999982,
+      "accepted": true,
+      "score": 0.12922758219742503
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.4950000000000002,
+      "clearance": 0.12466017912881772,
+      "perception_clearance": 0.12466017912881772,
+      "memory_clearance": 0.15742384610167193,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": true,
+      "score": 0.13341017912881767
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.5100000000000002,
+      "clearance": 0.13380953656298647,
+      "perception_clearance": 0.13380953656298647,
+      "memory_clearance": 0.1635016523594536,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.13880953656298642
+    },
+    {
+      "x": -0.19999999999999984,
+      "y": 0.5250000000000002,
+      "clearance": 0.1436719579201621,
+      "perception_clearance": 0.1436719579201621,
+      "memory_clearance": 0.1706848362541335,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.14492195792016205
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.27,
+      "clearance": 0.03596110659100659,
+      "perception_clearance": 0.03596110659100659,
+      "memory_clearance": 0.06756657659269642,
+      "edge_clearance": 0.0,
+      "accepted": true,
+      "score": 0.03596110659100659
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.28500000000000003,
+      "clearance": 0.023381993046167043,
+      "perception_clearance": 0.023381993046167043,
+      "memory_clearance": 0.057764241672339144,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.027131993046167046
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.30000000000000004,
+      "clearance": 0.012411864996273317,
+      "perception_clearance": 0.012411864996273317,
+      "memory_clearance": 0.05057838431092964,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.019911864996273322
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.31500000000000006,
+      "clearance": 0.0038278820985171813,
+      "perception_clearance": 0.0038278820985171813,
+      "memory_clearance": 0.047219045977526755,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.015077882098517192
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.33000000000000007,
+      "clearance": 0.0057949113046977755,
+      "perception_clearance": 0.0057949113046977755,
+      "memory_clearance": 0.0484881804829948,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": false,
+      "score": 0.020794911304697787
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.3450000000000001,
+      "clearance": 0.013275664469174595,
+      "perception_clearance": 0.013275664469174595,
+      "memory_clearance": 0.054060789765551634,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": false,
+      "score": 0.03202566446917461
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.3600000000000001,
+      "clearance": 0.026633899708056023,
+      "perception_clearance": 0.026633899708056023,
+      "memory_clearance": 0.06280154722296949,
+      "edge_clearance": 0.09000000000000008,
+      "accepted": false,
+      "score": 0.04913389970805604
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.3750000000000001,
+      "clearance": 0.039444707205364485,
+      "perception_clearance": 0.039444707205364485,
+      "memory_clearance": 0.07359007865957586,
+      "edge_clearance": 0.10499999999999983,
+      "accepted": true,
+      "score": 0.06569470720536444
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.3900000000000001,
+      "clearance": 0.053006506021538585,
+      "perception_clearance": 0.053006506021538585,
+      "memory_clearance": 0.08565608571868234,
+      "edge_clearance": 0.10499999999999983,
+      "accepted": true,
+      "score": 0.07925650602153854
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.40500000000000014,
+      "clearance": 0.06691137578340545,
+      "perception_clearance": 0.06691137578340545,
+      "memory_clearance": 0.0985313674124639,
+      "edge_clearance": 0.10499999999999983,
+      "accepted": true,
+      "score": 0.0931613757834054
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.42000000000000015,
+      "clearance": 0.08101091823942538,
+      "perception_clearance": 0.08101091823942538,
+      "memory_clearance": 0.11193701669998916,
+      "edge_clearance": 0.10499999999999983,
+      "accepted": true,
+      "score": 0.10726091823942534
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.43500000000000016,
+      "clearance": 0.09507712264930501,
+      "perception_clearance": 0.09507712264930501,
+      "memory_clearance": 0.12570346475422764,
+      "edge_clearance": 0.09499999999999986,
+      "accepted": true,
+      "score": 0.11882712264930498
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.4500000000000002,
+      "clearance": 0.10939172559452161,
+      "perception_clearance": 0.10939172559452161,
+      "memory_clearance": 0.13972410813721822,
+      "edge_clearance": 0.07999999999999985,
+      "accepted": true,
+      "score": 0.12939172559452156
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.4650000000000002,
+      "clearance": 0.12386864012260423,
+      "perception_clearance": 0.12386864012260423,
+      "memory_clearance": 0.15392950249469642,
+      "edge_clearance": 0.06499999999999984,
+      "accepted": true,
+      "score": 0.1401186401226042
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.4800000000000002,
+      "clearance": 0.1300671164989603,
+      "perception_clearance": 0.1300671164989603,
+      "memory_clearance": 0.1670417566710351,
+      "edge_clearance": 0.04999999999999982,
+      "accepted": true,
+      "score": 0.14256711649896026
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.4950000000000002,
+      "clearance": 0.1372307786508785,
+      "perception_clearance": 0.1372307786508785,
+      "memory_clearance": 0.17147440472144534,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": true,
+      "score": 0.14598077865087844
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.5100000000000002,
+      "clearance": 0.14559230207637594,
+      "perception_clearance": 0.14559230207637594,
+      "memory_clearance": 0.17707059179153034,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.1505923020763759
+    },
+    {
+      "x": -0.18499999999999983,
+      "y": 0.5250000000000002,
+      "clearance": 0.1549578982777935,
+      "perception_clearance": 0.1549578982777935,
+      "memory_clearance": 0.1837240253212179,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.15620789827779344
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.27,
+      "clearance": 0.028327813004794207,
+      "perception_clearance": 0.028327813004794207,
+      "memory_clearance": 0.058115914692353624,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.028327813004794207
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.28500000000000003,
+      "clearance": 0.01517510228906344,
+      "perception_clearance": 0.01517510228906344,
+      "memory_clearance": 0.04635649775438838,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.018925102289063443
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.30000000000000004,
+      "clearance": 0.0038313091696921546,
+      "perception_clearance": 0.0038313091696921546,
+      "memory_clearance": 0.037018782092017914,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.01133130916969216
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.31500000000000006,
+      "clearance": 0.00129836582614888,
+      "perception_clearance": 0.00129836582614888,
+      "memory_clearance": 0.03227778758062575,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.01254836582614889
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.33000000000000007,
+      "clearance": 0.0006346259390116833,
+      "perception_clearance": 0.0006346259390116833,
+      "memory_clearance": 0.034107490594057065,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": false,
+      "score": 0.015634625939011697
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.3450000000000001,
+      "clearance": 0.0059756347515562205,
+      "perception_clearance": 0.0059756347515562205,
+      "memory_clearance": 0.04165076539689739,
+      "edge_clearance": 0.07500000000000007,
+      "accepted": false,
+      "score": 0.024725634751556237
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.3600000000000001,
+      "clearance": 0.019504272507641814,
+      "perception_clearance": 0.019504272507641814,
+      "memory_clearance": 0.05250001525400807,
+      "edge_clearance": 0.08999999999999982,
+      "accepted": false,
+      "score": 0.04200427250764177
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.3750000000000001,
+      "clearance": 0.033809035081569544,
+      "perception_clearance": 0.033809035081569544,
+      "memory_clearance": 0.06502089621955986,
+      "edge_clearance": 0.08999999999999982,
+      "accepted": false,
+      "score": 0.056309035081569495
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.3900000000000001,
+      "clearance": 0.04764390024360854,
+      "perception_clearance": 0.04764390024360854,
+      "memory_clearance": 0.07841672199676847,
+      "edge_clearance": 0.08999999999999982,
+      "accepted": true,
+      "score": 0.07014390024360849
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.40500000000000014,
+      "clearance": 0.06202283134216822,
+      "perception_clearance": 0.06202283134216822,
+      "memory_clearance": 0.09230735416120521,
+      "edge_clearance": 0.08999999999999982,
+      "accepted": true,
+      "score": 0.08452283134216818
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.42000000000000015,
+      "clearance": 0.07664021127955721,
+      "perception_clearance": 0.07664021127955721,
+      "memory_clearance": 0.10649935669179351,
+      "edge_clearance": 0.08999999999999982,
+      "accepted": true,
+      "score": 0.09914021127955716
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.43500000000000016,
+      "clearance": 0.09138168504821571,
+      "perception_clearance": 0.09138168504821571,
+      "memory_clearance": 0.12088663416312642,
+      "edge_clearance": 0.08999999999999982,
+      "accepted": true,
+      "score": 0.11388168504821566
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.4500000000000002,
+      "clearance": 0.10619558719423051,
+      "perception_clearance": 0.10619558719423051,
+      "memory_clearance": 0.1354069557401438,
+      "edge_clearance": 0.07999999999999985,
+      "accepted": true,
+      "score": 0.12619558719423046
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.4650000000000002,
+      "clearance": 0.12105533080704683,
+      "perception_clearance": 0.12105533080704683,
+      "memory_clearance": 0.1500216951188626,
+      "edge_clearance": 0.06499999999999984,
+      "accepted": true,
+      "score": 0.1373053308070468
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.4800000000000002,
+      "clearance": 0.1359458844322978,
+      "perception_clearance": 0.1359458844322978,
+      "memory_clearance": 0.16470572045275375,
+      "edge_clearance": 0.04999999999999982,
+      "accepted": true,
+      "score": 0.14844588443229775
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.4950000000000002,
+      "clearance": 0.1502478384464279,
+      "perception_clearance": 0.1502478384464279,
+      "memory_clearance": 0.17944202320912558,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": true,
+      "score": 0.15899783844642784
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.5100000000000002,
+      "clearance": 0.15792164124209254,
+      "perception_clearance": 0.15792164124209254,
+      "memory_clearance": 0.1908538672139863,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.1629216412420925
+    },
+    {
+      "x": -0.16999999999999982,
+      "y": 0.5250000000000002,
+      "clearance": 0.16659554792181117,
+      "perception_clearance": 0.16659554792181117,
+      "memory_clearance": 0.19704243612319317,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.1678455479218111
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.27,
+      "clearance": 0.02168509230583277,
+      "perception_clearance": 0.02168509230583277,
+      "memory_clearance": 0.05137778516636483,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.02168509230583277
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.28500000000000003,
+      "clearance": 0.008169155496231938,
+      "perception_clearance": 0.008169155496231938,
+      "memory_clearance": 0.03756517206302705,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.011919155496231942
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.30000000000000004,
+      "clearance": 0.0015044906507413098,
+      "perception_clearance": 0.0015044906507413098,
+      "memory_clearance": 0.02515168971756211,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.009004490650741317
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.31500000000000006,
+      "clearance": 0.0011653536877173612,
+      "perception_clearance": 0.0011653536877173612,
+      "memory_clearance": 0.017437684455575277,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.012415353687717371
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.33000000000000007,
+      "clearance": 0.0016154782211470096,
+      "perception_clearance": 0.0016154782211470096,
+      "memory_clearance": 0.020628576846110944,
+      "edge_clearance": 0.06000000000000005,
+      "accepted": false,
+      "score": 0.016615478221147024
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.3450000000000001,
+      "clearance": 0.00047245060574000304,
+      "perception_clearance": 0.00047245060574000304,
+      "memory_clearance": 0.0315753626458921,
+      "edge_clearance": 0.0749999999999998,
+      "accepted": false,
+      "score": 0.019222450605739953
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.3600000000000001,
+      "clearance": 0.015070288213932215,
+      "perception_clearance": 0.015070288213932215,
+      "memory_clearance": 0.044927373278918645,
+      "edge_clearance": 0.0749999999999998,
+      "accepted": false,
+      "score": 0.03382028821393217
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.3750000000000001,
+      "clearance": 0.030066658679126706,
+      "perception_clearance": 0.030066658679126706,
+      "memory_clearance": 0.05907566515297977,
+      "edge_clearance": 0.0749999999999998,
+      "accepted": false,
+      "score": 0.04881665867912666
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.3900000000000001,
+      "clearance": 0.04506544509270076,
+      "perception_clearance": 0.04506544509270076,
+      "memory_clearance": 0.07356221555112845,
+      "edge_clearance": 0.0749999999999998,
+      "accepted": true,
+      "score": 0.0638154450927007
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.40500000000000014,
+      "clearance": 0.06006483762301659,
+      "perception_clearance": 0.06006483762301659,
+      "memory_clearance": 0.08822054692822065,
+      "edge_clearance": 0.0749999999999998,
+      "accepted": true,
+      "score": 0.07881483762301654
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.42000000000000015,
+      "clearance": 0.0750644729279802,
+      "perception_clearance": 0.0750644729279802,
+      "memory_clearance": 0.10297732878569961,
+      "edge_clearance": 0.0749999999999998,
+      "accepted": true,
+      "score": 0.09381447292798015
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.43500000000000016,
+      "clearance": 0.0900642297098665,
+      "perception_clearance": 0.0900642297098665,
+      "memory_clearance": 0.11779556692576243,
+      "edge_clearance": 0.0749999999999998,
+      "accepted": true,
+      "score": 0.10881422970986644
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.4500000000000002,
+      "clearance": 0.1050640559397348,
+      "perception_clearance": 0.1050640559397348,
+      "memory_clearance": 0.1326546679573903,
+      "edge_clearance": 0.0749999999999998,
+      "accepted": true,
+      "score": 0.12381405593973474
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.4650000000000002,
+      "clearance": 0.12006392558876229,
+      "perception_clearance": 0.12006392558876229,
+      "memory_clearance": 0.14754228639413575,
+      "edge_clearance": 0.06499999999999984,
+      "accepted": true,
+      "score": 0.13631392558876226
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.4800000000000002,
+      "clearance": 0.1350638241908616,
+      "perception_clearance": 0.1350638241908616,
+      "memory_clearance": 0.16245058207939078,
+      "edge_clearance": 0.04999999999999982,
+      "accepted": true,
+      "score": 0.14756382419086156
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.4950000000000002,
+      "clearance": 0.1500637430638597,
+      "perception_clearance": 0.1500637430638597,
+      "memory_clearance": 0.17737434132775964,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": true,
+      "score": 0.15881374306385965
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.5100000000000002,
+      "clearance": 0.16506367668149233,
+      "perception_clearance": 0.16506367668149233,
+      "memory_clearance": 0.19230996413337578,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.17006367668149228
+    },
+    {
+      "x": -0.1549999999999998,
+      "y": 0.5250000000000002,
+      "clearance": 0.17873500758403757,
+      "perception_clearance": 0.17873500758403757,
+      "memory_clearance": 0.20725488570478617,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.17998500758403752
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.27,
+      "clearance": 0.017424587655601047,
+      "perception_clearance": 0.017424587655601047,
+      "memory_clearance": 0.048496330548541,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.017424587655601047
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.28500000000000003,
+      "clearance": 0.003821332485629904,
+      "perception_clearance": 0.003821332485629904,
+      "memory_clearance": 0.033516554420122635,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.007571332485629908
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.30000000000000004,
+      "clearance": 0.0009064827521575495,
+      "perception_clearance": 0.0009064827521575495,
+      "memory_clearance": 0.0185694578197839,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.008406482752157557
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.31500000000000006,
+      "clearance": 0.001205712143718523,
+      "perception_clearance": 0.001205712143718523,
+      "memory_clearance": 0.0040361004997925545,
+      "edge_clearance": 0.04500000000000004,
+      "accepted": false,
+      "score": 0.012455712143718533
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.33000000000000007,
+      "clearance": 0.0012264323189000146,
+      "perception_clearance": 0.0012264323189000146,
+      "memory_clearance": 0.01173692680253731,
+      "edge_clearance": 0.05999999999999979,
+      "accepted": false,
+      "score": 0.01622643231889996
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.3450000000000001,
+      "clearance": 0.003504992679533138,
+      "perception_clearance": 0.003504992679533138,
+      "memory_clearance": 0.026631199640493337,
+      "edge_clearance": 0.05999999999999979,
+      "accepted": false,
+      "score": 0.018504992679533084
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.3600000000000001,
+      "clearance": 0.015439590767730157,
+      "perception_clearance": 0.015439590767730157,
+      "memory_clearance": 0.041601516051888145,
+      "edge_clearance": 0.05999999999999979,
+      "accepted": false,
+      "score": 0.030439590767730104
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.3750000000000001,
+      "clearance": 0.03024031997956332,
+      "perception_clearance": 0.03024031997956332,
+      "memory_clearance": 0.0565875558876614,
+      "edge_clearance": 0.05999999999999979,
+      "accepted": false,
+      "score": 0.045240319979563265
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.3900000000000001,
+      "clearance": 0.04517270129024581,
+      "perception_clearance": 0.04517270129024581,
+      "memory_clearance": 0.07157944415027892,
+      "edge_clearance": 0.05999999999999979,
+      "accepted": true,
+      "score": 0.06017270129024575
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.40500000000000014,
+      "clearance": 0.060138747336880696,
+      "perception_clearance": 0.060138747336880696,
+      "memory_clearance": 0.08657414260844051,
+      "edge_clearance": 0.05999999999999979,
+      "accepted": true,
+      "score": 0.07513874733688064
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.42000000000000015,
+      "clearance": 0.07511833944277906,
+      "perception_clearance": 0.07511833944277906,
+      "memory_clearance": 0.10157040667394363,
+      "edge_clearance": 0.05999999999999979,
+      "accepted": true,
+      "score": 0.090118339442779
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.43500000000000016,
+      "clearance": 0.09010472190752257,
+      "perception_clearance": 0.09010472190752257,
+      "memory_clearance": 0.11656763210872044,
+      "edge_clearance": 0.05999999999999979,
+      "accepted": true,
+      "score": 0.10510472190752251
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.4500000000000002,
+      "clearance": 0.10509498988735562,
+      "perception_clearance": 0.10509498988735562,
+      "memory_clearance": 0.1315654901520824,
+      "edge_clearance": 0.05999999999999979,
+      "accepted": true,
+      "score": 0.12009498988735556
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.4650000000000002,
+      "clearance": 0.12008768833154705,
+      "perception_clearance": 0.12008768833154705,
+      "memory_clearance": 0.14656378659983302,
+      "edge_clearance": 0.05999999999999979,
+      "accepted": true,
+      "score": 0.135087688331547
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.4800000000000002,
+      "clearance": 0.1350820079736979,
+      "perception_clearance": 0.1350820079736979,
+      "memory_clearance": 0.16156239935704436,
+      "edge_clearance": 0.04999999999999982,
+      "accepted": true,
+      "score": 0.14758200797369786
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.4950000000000002,
+      "clearance": 0.15007746289032736,
+      "perception_clearance": 0.15007746289032736,
+      "memory_clearance": 0.17656124781369437,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": true,
+      "score": 0.15882746289032731
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.5100000000000002,
+      "clearance": 0.16507374369350503,
+      "perception_clearance": 0.16507374369350503,
+      "memory_clearance": 0.1915602766051785,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.17007374369350498
+    },
+    {
+      "x": -0.1399999999999998,
+      "y": 0.5250000000000002,
+      "clearance": 0.18007064404388742,
+      "perception_clearance": 0.18007064404388742,
+      "memory_clearance": 0.20655944644720609,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.18132064404388737
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.27,
+      "clearance": 0.016871028286400896,
+      "perception_clearance": 0.016871028286400896,
+      "memory_clearance": 0.05014091487742886,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.016871028286400896
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.28500000000000003,
+      "clearance": 0.0025538668568202863,
+      "perception_clearance": 0.0025538668568202863,
+      "memory_clearance": 0.03585493952399386,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.00630386685682029
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.30000000000000004,
+      "clearance": 0.0007469145650183157,
+      "perception_clearance": 0.0007469145650183157,
+      "memory_clearance": 0.02251759382778161,
+      "edge_clearance": 0.030000000000000027,
+      "accepted": false,
+      "score": 0.008246914565018323
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.31500000000000006,
+      "clearance": 0.0013958916023934387,
+      "perception_clearance": 0.0013958916023934387,
+      "memory_clearance": 0.013360665227324596,
+      "edge_clearance": 0.044999999999999776,
+      "accepted": false,
+      "score": 0.012645891602393383
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.33000000000000007,
+      "clearance": 0.0014335255002391805,
+      "perception_clearance": 0.0014335255002391805,
+      "memory_clearance": 0.017319720518539944,
+      "edge_clearance": 0.044999999999999776,
+      "accepted": false,
+      "score": 0.012683525500239125
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.3450000000000001,
+      "clearance": 0.006794675772061773,
+      "perception_clearance": 0.006794675772061773,
+      "memory_clearance": 0.02952012978230325,
+      "edge_clearance": 0.044999999999999776,
+      "accepted": false,
+      "score": 0.018044675772061716
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.3600000000000001,
+      "clearance": 0.020124578717643973,
+      "perception_clearance": 0.020124578717643973,
+      "memory_clearance": 0.04350750976426623,
+      "edge_clearance": 0.044999999999999776,
+      "accepted": false,
+      "score": 0.03137457871764392
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.3750000000000001,
+      "clearance": 0.03457409809655281,
+      "perception_clearance": 0.03457409809655281,
+      "memory_clearance": 0.058003178787126984,
+      "edge_clearance": 0.044999999999999776,
+      "accepted": false,
+      "score": 0.04582409809655276
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.3900000000000001,
+      "clearance": 0.048690009347616296,
+      "perception_clearance": 0.048690009347616296,
+      "memory_clearance": 0.07270374194589377,
+      "edge_clearance": 0.044999999999999776,
+      "accepted": true,
+      "score": 0.059940009347616244
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.40500000000000014,
+      "clearance": 0.06282366592027532,
+      "perception_clearance": 0.06282366592027532,
+      "memory_clearance": 0.08750599657428518,
+      "edge_clearance": 0.044999999999999776,
+      "accepted": true,
+      "score": 0.07407366592027526
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.42000000000000015,
+      "clearance": 0.07728459735971821,
+      "perception_clearance": 0.07728459735971821,
+      "memory_clearance": 0.10236583795379446,
+      "edge_clearance": 0.044999999999999776,
+      "accepted": true,
+      "score": 0.08853459735971815
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.43500000000000016,
+      "clearance": 0.0919184691911542,
+      "perception_clearance": 0.0919184691911542,
+      "memory_clearance": 0.11726137524140763,
+      "edge_clearance": 0.044999999999999776,
+      "accepted": true,
+      "score": 0.10316846919115415
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.4500000000000002,
+      "clearance": 0.10665411838197608,
+      "perception_clearance": 0.10665411838197608,
+      "memory_clearance": 0.1321805411814837,
+      "edge_clearance": 0.044999999999999776,
+      "accepted": true,
+      "score": 0.11790411838197602
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.4650000000000002,
+      "clearance": 0.1214545057098664,
+      "perception_clearance": 0.1214545057098664,
+      "memory_clearance": 0.1471161473481195,
+      "edge_clearance": 0.044999999999999776,
+      "accepted": true,
+      "score": 0.13270450570986636
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.4800000000000002,
+      "clearance": 0.13629854345010212,
+      "perception_clearance": 0.13629854345010212,
+      "memory_clearance": 0.16206364846589535,
+      "edge_clearance": 0.044999999999999776,
+      "accepted": true,
+      "score": 0.14754854345010207
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.4950000000000002,
+      "clearance": 0.15117337376671452,
+      "perception_clearance": 0.15117337376671452,
+      "memory_clearance": 0.17702003134561073,
+      "edge_clearance": 0.03499999999999981,
+      "accepted": true,
+      "score": 0.15992337376671448
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.5100000000000002,
+      "clearance": 0.16607072266176895,
+      "perception_clearance": 0.16607072266176895,
+      "memory_clearance": 0.191983220207196,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.1710707226617689
+    },
+    {
+      "x": -0.12499999999999978,
+      "y": 0.5250000000000002,
+      "clearance": 0.1809850295322616,
+      "perception_clearance": 0.1809850295322616,
+      "memory_clearance": 0.20695173878140868,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.18223502953226153
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.27,
+      "clearance": 0.02131516054195662,
+      "perception_clearance": 0.02131516054195662,
+      "memory_clearance": 0.055913581648985626,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.02131516054195662
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.28500000000000003,
+      "clearance": 0.00862376159263072,
+      "perception_clearance": 0.00862376159263072,
+      "memory_clearance": 0.04356367702962495,
+      "edge_clearance": 0.015000000000000013,
+      "accepted": false,
+      "score": 0.012373761592630723
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.30000000000000004,
+      "clearance": 0.0008550338176906167,
+      "perception_clearance": 0.0008550338176906167,
+      "memory_clearance": 0.033455332906207405,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": false,
+      "score": 0.008355033817690557
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.31500000000000006,
+      "clearance": 0.0005587252495034046,
+      "perception_clearance": 0.0005587252495034046,
+      "memory_clearance": 0.028119826517758895,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": false,
+      "score": 0.008058725249503346
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.33000000000000007,
+      "clearance": 0.00025205973895117885,
+      "perception_clearance": 0.00025205973895117885,
+      "memory_clearance": 0.030202483124944366,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": false,
+      "score": 0.007752059738951119
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.3450000000000001,
+      "clearance": 0.012141454532030574,
+      "perception_clearance": 0.012141454532030574,
+      "memory_clearance": 0.03851824672069386,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": false,
+      "score": 0.019641454532030513
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.3600000000000001,
+      "clearance": 0.02568846821047372,
+      "perception_clearance": 0.02568846821047372,
+      "memory_clearance": 0.05005118054511739,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": false,
+      "score": 0.033188468210473665
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.3750000000000001,
+      "clearance": 0.039184108513670775,
+      "perception_clearance": 0.039184108513670775,
+      "memory_clearance": 0.06306017774700316,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": true,
+      "score": 0.04668410851367072
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.3900000000000001,
+      "clearance": 0.05348730055837306,
+      "perception_clearance": 0.05348730055837306,
+      "memory_clearance": 0.07679877187173847,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": true,
+      "score": 0.060987300558372995
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.40500000000000014,
+      "clearance": 0.06754924023981476,
+      "perception_clearance": 0.06754924023981476,
+      "memory_clearance": 0.09093688308123953,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": true,
+      "score": 0.0750492402398147
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.42000000000000015,
+      "clearance": 0.08187349661278441,
+      "perception_clearance": 0.08187349661278441,
+      "memory_clearance": 0.10531373152659022,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": true,
+      "score": 0.08937349661278435
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.43500000000000016,
+      "clearance": 0.09606846020863638,
+      "perception_clearance": 0.09606846020863638,
+      "memory_clearance": 0.11984342865413364,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": true,
+      "score": 0.10356846020863632
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.4500000000000002,
+      "clearance": 0.11025082782568915,
+      "perception_clearance": 0.11025082782568915,
+      "memory_clearance": 0.13447643933084383,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": true,
+      "score": 0.11775082782568909
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.4650000000000002,
+      "clearance": 0.1246248010054225,
+      "perception_clearance": 0.1246248010054225,
+      "memory_clearance": 0.14918236517305195,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": true,
+      "score": 0.13212480100542245
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.4800000000000002,
+      "clearance": 0.1391310066629023,
+      "perception_clearance": 0.1391310066629023,
+      "memory_clearance": 0.16394158539598647,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": true,
+      "score": 0.14663100666290224
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.4950000000000002,
+      "clearance": 0.15373201684887883,
+      "perception_clearance": 0.15373201684887883,
+      "memory_clearance": 0.17874089841352264,
+      "edge_clearance": 0.029999999999999763,
+      "accepted": true,
+      "score": 0.16123201684887878
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.5100000000000002,
+      "clearance": 0.16840317394222523,
+      "perception_clearance": 0.16840317394222523,
+      "memory_clearance": 0.19357110866344937,
+      "edge_clearance": 0.019999999999999796,
+      "accepted": true,
+      "score": 0.17340317394222518
+    },
+    {
+      "x": -0.10999999999999976,
+      "y": 0.5250000000000002,
+      "clearance": 0.18312761938933947,
+      "perception_clearance": 0.18312761938933947,
+      "memory_clearance": 0.20842562091240277,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.18437761938933941
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.27,
+      "clearance": 0.029813553303476462,
+      "perception_clearance": 0.029813553303476462,
+      "memory_clearance": 0.06471897620396971,
+      "edge_clearance": 0.0,
+      "accepted": false,
+      "score": 0.029813553303476462
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.28500000000000003,
+      "clearance": 0.01910811830576304,
+      "perception_clearance": 0.01910811830576304,
+      "memory_clearance": 0.05440598518925734,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": false,
+      "score": 0.022858118305762978
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.30000000000000004,
+      "clearance": 0.011028830316421993,
+      "perception_clearance": 0.011028830316421993,
+      "memory_clearance": 0.04670627974841692,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": false,
+      "score": 0.01477883031642193
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.31500000000000006,
+      "clearance": 0.009630553005436637,
+      "perception_clearance": 0.009630553005436637,
+      "memory_clearance": 0.043045811776072626,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": false,
+      "score": 0.013380553005436575
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.33000000000000007,
+      "clearance": 0.013391742804118355,
+      "perception_clearance": 0.013391742804118355,
+      "memory_clearance": 0.04443430268367858,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": false,
+      "score": 0.017141742804118294
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.3450000000000001,
+      "clearance": 0.021101683269894166,
+      "perception_clearance": 0.021101683269894166,
+      "memory_clearance": 0.05045664077709157,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": false,
+      "score": 0.024851683269894103
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.3600000000000001,
+      "clearance": 0.032222048848048725,
+      "perception_clearance": 0.032222048848048725,
+      "memory_clearance": 0.05972719600008152,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": false,
+      "score": 0.035972048848048666
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.3750000000000001,
+      "clearance": 0.0454633288663258,
+      "perception_clearance": 0.0454633288663258,
+      "memory_clearance": 0.07098452849428423,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": true,
+      "score": 0.049213328866325734
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.3900000000000001,
+      "clearance": 0.05915339500116797,
+      "perception_clearance": 0.05915339500116797,
+      "memory_clearance": 0.0834282244152394,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": true,
+      "score": 0.06290339500116791
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.40500000000000014,
+      "clearance": 0.07262658673774236,
+      "perception_clearance": 0.07262658673774236,
+      "memory_clearance": 0.09660090047511588,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": true,
+      "score": 0.0763765867377423
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.42000000000000015,
+      "clearance": 0.08660322200810674,
+      "perception_clearance": 0.08660322200810674,
+      "memory_clearance": 0.11024154986268535,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": true,
+      "score": 0.09035322200810668
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.43500000000000016,
+      "clearance": 0.10087425351989493,
+      "perception_clearance": 0.10087425351989493,
+      "memory_clearance": 0.12419607344699203,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": true,
+      "score": 0.10462425351989486
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.4500000000000002,
+      "clearance": 0.11498174222627598,
+      "perception_clearance": 0.11498174222627598,
+      "memory_clearance": 0.1383695414575561,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": true,
+      "score": 0.11873174222627592
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.4650000000000002,
+      "clearance": 0.12927169309642847,
+      "perception_clearance": 0.12927169309642847,
+      "memory_clearance": 0.15270099982219512,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": true,
+      "score": 0.13302169309642842
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.4800000000000002,
+      "clearance": 0.1434837310758462,
+      "perception_clearance": 0.1434837310758462,
+      "memory_clearance": 0.16714981510675309,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": true,
+      "score": 0.14723373107584614
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.4950000000000002,
+      "clearance": 0.15768220277772996,
+      "perception_clearance": 0.15768220277772996,
+      "memory_clearance": 0.18168799089027718,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": true,
+      "score": 0.1614322027777299
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.5100000000000002,
+      "clearance": 0.17201678133899773,
+      "perception_clearance": 0.17201678133899773,
+      "memory_clearance": 0.19629567335341128,
+      "edge_clearance": 0.01499999999999975,
+      "accepted": true,
+      "score": 0.17576678133899767
+    },
+    {
+      "x": -0.09499999999999975,
+      "y": 0.5250000000000002,
+      "clearance": 0.18645607807636622,
+      "perception_clearance": 0.18645607807636622,
+      "memory_clearance": 0.2109584241522316,
+      "edge_clearance": 0.004999999999999782,
+      "accepted": true,
+      "score": 0.18770607807636616
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.27,
+      "clearance": 0.0402561919255193,
+      "perception_clearance": 0.0402561919255193,
+      "memory_clearance": 0.07550339826102012,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": true,
+      "score": 0.04025619192551923
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.28500000000000003,
+      "clearance": 0.031055412893677987,
+      "perception_clearance": 0.031055412893677987,
+      "memory_clearance": 0.06687472237315013,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": false,
+      "score": 0.03105541289367792
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.30000000000000004,
+      "clearance": 0.025177583661033873,
+      "perception_clearance": 0.025177583661033873,
+      "memory_clearance": 0.060775766848387834,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": false,
+      "score": 0.025177583661033807
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.31500000000000006,
+      "clearance": 0.02456568089445849,
+      "perception_clearance": 0.02456568089445849,
+      "memory_clearance": 0.05800999206630949,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": false,
+      "score": 0.024565680894458423
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.33000000000000007,
+      "clearance": 0.027852409497932076,
+      "perception_clearance": 0.027852409497932076,
+      "memory_clearance": 0.05904764621097934,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": false,
+      "score": 0.02785240949793201
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.3450000000000001,
+      "clearance": 0.0335063021753741,
+      "perception_clearance": 0.0335063021753741,
+      "memory_clearance": 0.06370313859285645,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": false,
+      "score": 0.033506302175374036
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.3600000000000001,
+      "clearance": 0.042314282925908886,
+      "perception_clearance": 0.042314282925908886,
+      "memory_clearance": 0.07127099838015721,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": true,
+      "score": 0.04231428292590882
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.3750000000000001,
+      "clearance": 0.05318934052776658,
+      "perception_clearance": 0.05318934052776658,
+      "memory_clearance": 0.08093837503698766,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": true,
+      "score": 0.05318934052776651
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.3900000000000001,
+      "clearance": 0.06563352638263746,
+      "perception_clearance": 0.06563352638263746,
+      "memory_clearance": 0.09204610745247059,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": true,
+      "score": 0.06563352638263739
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.40500000000000014,
+      "clearance": 0.07897096697560455,
+      "perception_clearance": 0.07897096697560455,
+      "memory_clearance": 0.10413429425830599,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": true,
+      "score": 0.07897096697560448
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.42000000000000015,
+      "clearance": 0.09267335583288162,
+      "perception_clearance": 0.09267335583288162,
+      "memory_clearance": 0.11689917272675268,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": true,
+      "score": 0.09267335583288155
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.43500000000000016,
+      "clearance": 0.1061312764567472,
+      "perception_clearance": 0.1061312764567472,
+      "memory_clearance": 0.13014177625852066,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": true,
+      "score": 0.10613127645674714
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.4500000000000002,
+      "clearance": 0.11995559513148654,
+      "perception_clearance": 0.11995559513148654,
+      "memory_clearance": 0.14373011956874784,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": true,
+      "score": 0.11995559513148647
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.4650000000000002,
+      "clearance": 0.1340329875976796,
+      "perception_clearance": 0.1340329875976796,
+      "memory_clearance": 0.15757478419712417,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": true,
+      "score": 0.13403298759767954
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.4800000000000002,
+      "clearance": 0.14828463387410018,
+      "perception_clearance": 0.14828463387410018,
+      "memory_clearance": 0.17161374641413185,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": true,
+      "score": 0.14828463387410012
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.4950000000000002,
+      "clearance": 0.1624152155242955,
+      "perception_clearance": 0.1624152155242955,
+      "memory_clearance": 0.18580296903391413,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": true,
+      "score": 0.16241521552429544
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.5100000000000002,
+      "clearance": 0.17668919555091864,
+      "perception_clearance": 0.17668919555091864,
+      "memory_clearance": 0.20011049109264953,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": true,
+      "score": 0.17668919555091858
+    },
+    {
+      "x": -0.07999999999999974,
+      "y": 0.5250000000000002,
+      "clearance": 0.1909083893390575,
+      "perception_clearance": 0.1909083893390575,
+      "memory_clearance": 0.21451264295809017,
+      "edge_clearance": -2.636779683484747e-16,
+      "accepted": true,
+      "score": 0.19090838933905743
+    }
+  ]
+}
