@@ -2,8 +2,6 @@
 
 Perception-driven bin picking and pick-and-place experiments for a Franka Panda robot in NVIDIA Isaac Sim. The current working demo spawns multiple USD objects in a tray, asks the operator which object to pick, segments the target from RGB-D using SAM 3, estimates a top-down grasp from the masked point cloud, and places the object into a second tray using perception-based free-space search.
 
-Repository target: https://github.com/pathik2595/Franka_Panda
-
 ## Current Demo
 
 Run the stable persistent clutter pipeline:
