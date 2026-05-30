@@ -109,5 +109,4 @@ The SAM model/checkpoint should be installed or downloaded using the Ultralytics
 
 ## Next Improvements
 
-- Add a lightweight installer script for Isaac Python dependencies.
 - Add Contact-GraspNet as the next grasp-planning layer so the system can move beyond a single top-down grasp and generate ranked 6-DoF grasp candidates directly from the RGB-D/point-cloud observation.
